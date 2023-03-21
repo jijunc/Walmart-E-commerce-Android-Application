@@ -1,0 +1,10 @@
+product_id,product_name,units_sold,date
+1,Laptop,5,2023-01-02
+2,Smartphone,3,2023-01-02
+3,Tablet,2,2023-01-02
+1,Laptop,4,2023-01-03
+2,Smartphone,6,2023-01-03
+3,Tablet,3,2023-01-03
+1,Laptop,7,2023-01-04
+2,Smartphone,5,2023-01-04
+3,Tablet,1,2023-01-04
