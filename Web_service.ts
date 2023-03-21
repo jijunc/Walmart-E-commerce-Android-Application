@@ -71,15 +71,3 @@ private void createProduct(String productName, String productDescription, double
         });
     queue.add(request);
 }
-
-     
-
-
-
-
-
-
-
-
-
-}
